@@ -1,4 +1,4 @@
-# Computa-o-Grafica
+# Computação Grafica
 Filtros de computação Grafica
 
 # Filtro com Pillow
